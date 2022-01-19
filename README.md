@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @antoniofernandodj
 - 👀 I’m interested in python, data science and science in general
-- 🌱 I’m currently learning math, python, data structures, algorithms, pandas, matplotlib
+- 🌱 I’m currently learning math, html5, css3, javascript, python, data structures, algorithms, pandas, matplotlib
 - 💞️ I’m looking to collaborate on ... nothing at this time
 - 📫 How to reach me ... message me :)
 
