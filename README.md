@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @antoniofernandodj
-- 👀 I’m interested in python, data science and science in general
-- 🌱 I’m currently learning math, html5, css3, javascript, python, data structures, algorithms, pandas, matplotlib
-- 💞️ I’m looking to collaborate on ... nothing at this time
-- 📫 How to reach me ... message me :)
+Making some experiences with some .py files
 
 <!---
 antoniofernandodj/antoniofernandodj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
